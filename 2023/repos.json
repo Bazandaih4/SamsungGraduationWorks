@@ -12,7 +12,7 @@
   {repo: "LeFFaQ/FridgeMaster", folder: "Романов Данил"},
   {repo: "Nagibat0r3000/ArkanoidFinal", folder: "Федосеев Дмитрий"},
   {repo: "BogdanSvirsky/health-tracker", folder: "Свирский Богдан"},
-
+  
   {repo: "penakelex/Text_RPG", folder: "Конинский Алексей"},
   {repo: "thesharper/TeamFind", folder: "Кривецкий Арсений"},
   {repo: "borends/Ru-Katalog", folder: "Барабашёв Роман"},
@@ -31,9 +31,10 @@
   {repo: "Veteroch4k/MathDash", folder: "Попов Виктор"},
   {repo: "PytoByte/Jumper", folder: "Маркидонов Владимир"},
   {repo: "ritzle/EgeUdareniaFinal", folder: "Кирилл Флек и Рязанов Влад"},
-  {repo: "ianakaufmann/TracksandBingo2", folder: "Кауфман Яна и Пономарев Арсений"},  
+  {repo: "ianakaufmann/TracksandBingo2", folder: "Кауфман Яна"},  
   {repo: "Grunteck/TamaPetSolod", folder: "Солодкин Фёдор"},
   {repo: "VladSBA/WordTeacher", folder: "Софронов Владислав"},
   {repo: "IlyaStub/ProjectStoProc", folder: "Стубарев Илья"},
-  {repo: "Lavad0/SpaceTravel", folder: "Бектемиров Владислав"}
+  {repo: "Lavad0/SpaceTravel", folder: "Бектемиров Владислав"},
+  {repo: "Bazandaih4/bz4.trams", folder: "Пономарев Арсений"}
 ]
